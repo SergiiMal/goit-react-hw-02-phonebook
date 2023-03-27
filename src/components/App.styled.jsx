@@ -4,7 +4,7 @@ export const Container = styled.div`
   margin-top: 60px;
   padding: 30px;
   width: 400px;
-  background-color: #e4d7d7;
+  background-color: #d4d4d4;
 `;
 export const Title = styled.h1`
   text-align: center;
